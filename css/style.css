@@ -12,3 +12,14 @@
 body{
     background-color: #F6F8F9;
 }
+
+/* Header */
+
+header{
+    background-color: white;
+    padding: 15px 30px;
+}
+
+img{
+    height: 75px;
+}
