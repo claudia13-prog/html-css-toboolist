@@ -79,5 +79,40 @@ section{
 }
 
 
+/* Section List style */
+
+h2{
+    margin-bottom: 10px;
+}
+
+
+.check{
+    display: inline-block;
+    color: #2CC6AB;
+    height: 20px;
+    width: 20px;
+    border: 1px solid #2CC6AB;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 18px;
+    font-size: 11px;
+    margin-right: 10px;
+}
+
+ul{
+    list-style: none;
+    font-size: 18px;
+}
+
+.tag{
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    padding: 5px 12px;
+    border-radius: 20px;
+
+}
+
+
 
 
