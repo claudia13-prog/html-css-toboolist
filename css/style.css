@@ -57,6 +57,25 @@ section{
 
 }
 
+/* Button Style */
+
+.button{
+
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+    margin-right: 1px;
+
+
+}
+
+#selected{
+    background-color: #14AAF5;
+    border: 2px solid #14AAF5;
+
+}
 
 
 
