@@ -6,7 +6,6 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 
-
 }
 
 /* Body Features */
@@ -16,14 +15,22 @@ body{
 
 }
 
+.white-background{
+    background-color: white;
+
+}
+
 /* Header */
 
 header{
-    background-color: white;
     padding: 10px 30px;
+    margin-bottom: 50px;
 }
 
 img{
     height: 65px;
 }
+
+/* Main */
+
 
